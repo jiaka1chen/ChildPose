@@ -9,7 +9,7 @@
 </p>
 
 ### Authors
-Jiakai Chen<sup>1,2*</sup>,
+[Jiakai Chen](https://jiaka1chen.github.io/)<sup>1,2*</sup>,
 [Yifan Shen](https://shenyifans.github.io/)<sup>1,2*</sup>,
 [Boyi Li](https://resurgamm.github.io/)<sup>1,2*</sup>,
 Chuanmiao Dong<sup>2</sup>,
