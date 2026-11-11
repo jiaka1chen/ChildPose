@@ -1,0 +1,7 @@
+torch>=2.0
+numpy
+pillow
+safetensors
+huggingface_hub
+# only for scripts/run_video.py (video reading and visualization)
+opencv-python
